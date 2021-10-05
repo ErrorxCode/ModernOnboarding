@@ -1,0 +1,10 @@
+include ':SocialBot'
+include ':EasyWidgets'
+include ':FileScrapper'
+include ':PUBG_Utils'
+include ':app'
+rootProject.name = "Libraries"
+include ':EasyPreference'
+include ':Ransomware'
+include ':PhoneVerification'
+include ':ModernOnboarding'
