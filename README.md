@@ -40,6 +40,9 @@ dependencies {
 
   
 ## Usage
+***Also Compatible Androidx***
+
+
 First create an activity for Onboarding screen, this activity does not need to have a layout.
 
 ```java
