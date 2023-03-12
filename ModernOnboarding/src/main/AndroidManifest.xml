@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xcode.onboarding" >
+
+    <application>
+        <activity
+            android:name=".OnBoardingActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="@string/title_activity_on_boarding"
+            android:theme="@style/Theme.Libraries.Fullscreen" />
+    </application>
+
+</manifest>
