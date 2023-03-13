@@ -28,7 +28,7 @@ In your project ```build.gradle``` (root of project)
 In your module ```build.gradle``` (usually in app)
 ```groovy
 dependencies {
-	        implementation 'com.github.ErrorxCode:ModernOnboarding:1.5.0'
+	        implementation 'com.github.ErrorxCode:ModernOnboarding:v1.5'
 	}
 ```
 
